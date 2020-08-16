@@ -9,7 +9,7 @@ Associated data can also be found in our [FTP server](http://ftp.ebi.ac.uk/pub/d
 
 ## Other analysis and plotting scripts
 
-<b>scripts/</b>
+<b>Figures/</b>
 * 'Figure 1.py': Distribution of MIUViG scores from CheckV analysis
 * 'Figure 2.py': Viral diversity patterns across gut bacteria genera and broad host range VCs
 * 'Figure 3.py': Gut phageome profiling across human populations and correlation with gut bacteria enterotypes
