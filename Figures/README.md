@@ -18,4 +18,4 @@ Associated data can also be found in our [FTP server](http://ftp.ebi.ac.uk/pub/d
 * 'Figure S1.py': Quality control assessment of GPD
 * 'Figure S2.py': Viral diversity patterns across gut bacteria phyla and host range analysis of gut phages
 * 'Figure S3.py': Correlation between sequencing depth and number of phages detected in a sample
-* 'Figure S4.py': Lachnospirales high connectivity 
+* 'Figure S4.py': Host range analysis of globally distributed phages
