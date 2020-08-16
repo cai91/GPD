@@ -7,7 +7,7 @@ Camarillo-Guerrero LF, Almeida A, Rangel-Pineros G, Finn RD, Lawley TD (2020) [M
 
 Associated data can also be found in our [FTP server](http://ftp.ebi.ac.uk/pub/databases/metagenomics/genome_sets/gut_phage_database/)
 
-## Classifier/classifier.py
+## classifier/classifier.py
 
 Neural network that distinguishes phages from integrative and conjugative elements (ICEs)
 
@@ -28,7 +28,7 @@ input_features_file.txt: It contains a feature vector of 1026 dimensions: fracti
 
 ## Other analysis and plotting scripts
 
-<b>Figures/</b>
+<b>figures/</b>
 * 'Figure 1.py': Distribution of MIUViG scores from CheckV analysis
 * 'Figure 2.py': Viral diversity patterns across gut bacteria genera and broad host range VCs
 * 'Figure 3.py': Gut phageome profiling across human populations and correlation with gut bacteria enterotypes
