@@ -24,7 +24,7 @@ classifier.py <input_features_file.txt>
 
 <b>Notes:</b>
 
-input_features_file.txt: It contains a feature vector of 1026 dimensions: <fraction of hypothetical proteins> (1) <gene density> (1) <5-kmer signature> (1024) that represents a phage or an ICE (1 feature vector per line). 
+input_features_file.txt: It contains a feature vector of 1026 dimensions: fraction of hypothetical proteins (1) gene density (1) 5-kmer signature (1024) that represents a phage or an ICE (1 vector per line). 
 
 ## Other analysis and plotting scripts
 
@@ -38,3 +38,4 @@ input_features_file.txt: It contains a feature vector of 1026 dimensions: <fract
 * 'Figure S2.py': Viral diversity patterns across gut bacteria phyla and host range analysis of gut phages
 * 'Figure S3.py': Correlation between sequencing depth and number of phages detected in a sample
 * 'Figure S4.py': Host range analysis of globally distributed phages
+
