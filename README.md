@@ -3,7 +3,7 @@ The Gut Phage Database (GPD)
 
 Scripts used for characterizing human gut bacteriophages in the following manuscript:
 
-Camarillo-Guerrero LF, Almeida A, Rangel-Pineros G, RD Finn, Lawley TD (2020) [Massive expansion of human gut bacteriophage diversity]
+Camarillo-Guerrero LF, Almeida A, Rangel-Pineros G, Finn RD, Lawley TD (2020) [Massive expansion of human gut bacteriophage diversity]
 
 Associated data can also be found in our [FTP server](http://ftp.ebi.ac.uk/pub/databases/metagenomics/genome_sets/gut_phage_database/)
 
