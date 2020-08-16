@@ -9,7 +9,9 @@ Associated data can also be found in our [FTP server](http://ftp.ebi.ac.uk/pub/d
 
 <b>Classifier/</b>
 
-### Neural network that distinguishes phages from integrative and conjugative elements (ICEs)
+## classifier.py
+
+Neural network that distinguishes phages from integrative and conjugative elements (ICEs)
 
 <b>Requirements:</b>
 
@@ -38,4 +40,3 @@ input_features_file.txt: It contains a feature vector of 1026 dimensions: <fract
 * 'Figure S2.py': Viral diversity patterns across gut bacteria phyla and host range analysis of gut phages
 * 'Figure S3.py': Correlation between sequencing depth and number of phages detected in a sample
 * 'Figure S4.py': Host range analysis of globally distributed phages
-
