@@ -7,9 +7,7 @@ Camarillo-Guerrero LF, Almeida A, Rangel-Pineros G, Finn RD, Lawley TD (2020) [M
 
 Associated data can also be found in our [FTP server](http://ftp.ebi.ac.uk/pub/databases/metagenomics/genome_sets/gut_phage_database/)
 
-<b>Classifier/</b>
-
-## classifier.py
+## Classifier/classifier.py
 
 Neural network that distinguishes phages from integrative and conjugative elements (ICEs)
 
