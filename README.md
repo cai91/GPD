@@ -24,8 +24,8 @@ classifier.py <input_features_file.txt>
 
 <b>Notes:</b>
 
--input_features_file.txt: It contains a feature vector of 1026 dimensions: fraction of hypothetical proteins (1), gene density (1), 5-kmer signature (1024) that represents a phage or an ICE (1 feature vector per line)
--classifier/classifier_demo.py: It runs a demo of the classifier with 50 examples of phages and ICEs each.
+-input_features_file.txt: It contains a feature vector of 1026 dimensions: fraction of hypothetical proteins (1), gene density (1), 5-kmer signature (1024) that represents a phage or an ICE (1 feature vector per line) <br />
+-classifier/classifier_demo.py: It runs a demo of the classifier with 50 examples of phages and ICEs each <br />
 
 ## Other analysis and plotting scripts
 
