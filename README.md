@@ -27,6 +27,19 @@ classifier.py <input_features_file.txt>
 * input_features_file.txt: It contains a feature vector of 1026 dimensions: fraction of hypothetical proteins (1), gene density (1), 5-kmer signature (1024) that represents a phage or an ICE (1 feature vector per line) <br />
 * classifier/classifier_demo.py: It runs a demo of the classifier with 50 examples of phages and ICEs each <br />
 
+Input features generation files:
+
+getGeneDensity.py: This function takes in a GFF3 file and returns the number of genes / kb. <br />
+getHypothetical.py: This function takes in a GFF3 file and returns the fraction of hypothetical proteins. <br />
+getKmer.py: This function takes in a DNA sequence and counts the proportion of each of the 1024 possible 5mers. <br />
+
+<b>Usage:</b> 
+```
+getGeneDensity(<gff3_file_name>)
+getHypothetical(<gff3_file_name>)
+getSignature_hash(<DNA_string>)
+```
+
 ## Other analysis and plotting scripts
 
 <b>figures/</b>
