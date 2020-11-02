@@ -37,7 +37,7 @@ getKmer.py: This function takes in a DNA sequence and counts the proportion of e
 ```
 getGeneDensity(<gff3_file_name>)
 getHypothetical(<gff3_file_name>)
-getSignature_hash(<DNA_string>)
+getSignature_hash(<DNA_sequence>)
 ```
 
 ## Other analysis and plotting scripts
