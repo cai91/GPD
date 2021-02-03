@@ -9,7 +9,7 @@ Associated data can also be found in our [FTP server](http://ftp.ebi.ac.uk/pub/d
 
 ## classifier/classifier.py
 
-Neural network that distinguishes phages from integrative and conjugative elements (ICEs)
+Neural network that distinguishes phages from integrative and conjugative elements (ICEs).
 
 <b>Requirements:</b>
 
